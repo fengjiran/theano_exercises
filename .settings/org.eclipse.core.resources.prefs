@@ -1,4 +1,7 @@
 eclipse.preferences.version=1
-encoding//src/01_scalar_soln.py=utf-8
-encoding//src/02_vector_mat_soln.py=utf-8
-encoding//src/03_tensor_soln.py=utf-8
+encoding//src/basics/building_expressions/01_scalar_soln.py=utf-8
+encoding//src/basics/building_expressions/02_vector_mat_soln.py=utf-8
+encoding//src/basics/building_expressions/03_tensor_soln.py=utf-8
+encoding//src/basics/compiling_and_running/function_soln.py=utf-8
+encoding//src/basics/compiling_and_running/gpu.py=utf-8
+encoding//src/basics/compiling_and_running/shared_soln.py=utf-8
